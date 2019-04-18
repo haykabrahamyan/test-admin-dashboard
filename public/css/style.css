@@ -1,0 +1,32 @@
+.user-block{
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    text-align: center;
+    padding: 8px;
+    font-size: 31px;
+}
+
+.user-block a{
+    text-decoration: none;
+    color: #4e1b1b;
+}
+.paginate-block{
+    margin: 0 auto;
+    width: 201px;
+}
+.navbar-inverse{
+    background-color: #222;
+    border-color: #090909;
+}
+.active{
+    color: white;
+    font-weight: bold;
+}
+ul.nav{
+    display: inline;
+}
+ul.nav li{
+    float: left;
+    padding: 10px;
+}
